@@ -54,7 +54,7 @@ export default function About() {
             {/* Stats */}
             <div className="grid grid-cols-2 gap-6 mb-8">
               <div className="bg-black/40 rounded-xl p-5 text-center border border-white/10 hover:border-blue-500 transition">
-                <h4 className="text-3xl font-extrabold text-blue-400">5+</h4>
+                <h4 className="text-3xl font-extrabold text-blue-400">10+</h4>
                 <p className="text-gray-400 text-sm mt-1">Years Experience</p>
               </div>
 
